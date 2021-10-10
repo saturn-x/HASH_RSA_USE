@@ -1,0 +1,3 @@
+Web主要是前端界面，myjs则是自己写的请求后端代码
+Server层是Python的Flask框架，模拟系统的服务端
+Controller则是生成密钥、生成hash、验证hash、生成签名，验证签名。
